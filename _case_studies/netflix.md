@@ -17,7 +17,7 @@ solution: |
 testimonial:
   text_markdown: "Netflix is known for being nimble and moving at a high pace. Partnering with CloudCannon enables my Enterprise Platforms Team at Netflix to deliver highly customizable microsites to our internal business partners rapidly so they can work at the speed of our customers."
   image_path: /images/customers/netflix/elza@2x.jpg
-  name: Ashi Sheth
+  name: Эльза Абубакирова
   work_title: Фитнес-инструктор Fitness-Hall (Уфа, Россия)
   work_path: http://fitnesshallufa.ru/
 overview:
