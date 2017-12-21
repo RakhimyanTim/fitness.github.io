@@ -4,7 +4,7 @@ rakhimyan:
   position: CEO/Со-основатель
   twitter: rakhimyan
   email_address: walkingstartup@gmail.com
-  bio: "Генеральный директор в Pullnfit. Он любит все, что связано с физкультурой и спортом, а также стартапы."
+  bio: "Генеральный директор в Fitness.Pullnfit. Он любит все, что связано с физкультурой и спортом, а также стартапы."
 
 elza:
   name: Эльза Абубакирова
@@ -12,12 +12,4 @@ elza:
   position: Координатор по работе с инструкторами по фитнесу/ Со-основатель
   twitter: 
   email_address: elza.abubakirowa@yandex.ru 
-  bio: "Координатор по работе с инструкторами по фитнесу в Pullnfit. Мастер спорта по ППС. Действующая чемпионка мира по ППС."
-
-vlad:
-  name: Владислав Корнаухов
-  image: /images/team/vlad.jpg
-  position: Советник по спорту/Со-основатель
-  twitter: 
-  email_address: vlad.kornauhov.2017@gmail.com
-  bio: "Советник по спорту в Pullnfit. Мастер спорта по л/атл. Чемиион мира. Призер СССР в беге на 100 м."
+  bio: "Координатор по работе с инструкторами по фитнесу в Fitness.Pullnfit. Мастер спорта по ППС. Действующая чемпионка мира по ППС."
