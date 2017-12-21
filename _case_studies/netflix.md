@@ -16,10 +16,10 @@ solution: |
   The Partner Marketing team have taken control of their site. They're empowered to quickly try out new messaging and update content directly on the page.
 testimonial:
   text_markdown: "Netflix is known for being nimble and moving at a high pace. Partnering with CloudCannon enables my Enterprise Platforms Team at Netflix to deliver highly customizable microsites to our internal business partners rapidly so they can work at the speed of our customers."
-  image_path: /images/customers/netflix/ashi-small@2x.jpg
+  image_path: /images/customers/netflix/elza@2x.jpg
   name: Ashi Sheth
-  work_title: Manager of Enterprise Platforms
-  work_path: https://netflix.com
+  work_title: Фитнес-инструктор Fitness-Hall (Уфа, Россия)
+  work_path: http://fitnesshallufa.ru/
 overview:
   - image_path: /images/customers/netflix/home.png
     alt: Devices Home Page
