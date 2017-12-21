@@ -2,18 +2,21 @@
   price: 0
   sub: Для начинающих
   features:
-    - 3 программы
+    - 3 программы/мес
 - name: Basic
   price: 2000
-  sub: Для начинающих
+  sub: Для смелых
   highlight: true
   features:
     - 10 программ/мес
+    - Обучение и оптимизация
 - name: Pro
   price: 5000
   sub: Для профессионалов
   features:
     - 30 программ/мес
+    - Обучение и оптимизация
+    - Поддержка
 - name: Enterprise
   price_alt: По запросу
   sub: Присоединяйтесь к таким компаниям, как Sprint
