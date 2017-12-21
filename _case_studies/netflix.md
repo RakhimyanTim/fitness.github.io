@@ -15,7 +15,7 @@ solution: |
 
   The Partner Marketing team have taken control of their site. They're empowered to quickly try out new messaging and update content directly on the page.
 testimonial:
-  text_markdown: "Благодаря им достигла максимальных результатов в минимальные сроки."
+  text_markdown: "Благодаря Fitness.Pullnfit достигла максимальных результатов в минимальные сроки."
   image_path: /images/customers/netflix/elza@2x.jpg
   name: Эльза Абубакирова
   work_title: Фитнес-инструктор Fitness-Hall (Уфа, Россия)
