@@ -3,25 +3,6 @@ layout: info-page
 title: О нас
 permalink: /about/
 icons: true
-static_manifesto:
-  - title: Simplicity
-    icon: child_care
-    content_markdown: Static sites are just HTML, CSS and JavaScript files. This means they're faster to build, require less technical knowledge, need less upkeep and are future proofed.
-  - title: Scalability
-    icon: trending_up
-    content_markdown: A single webserver can handle [a lot](http://www.speedemy.com/apache-vs-nginx-2015/) of traffic if it's only serving static content.
-  - title: Speed
-    content_markdown: With static there's no database queries or page to generate on-the-fly. All the web server needs to do is return a static file.
-    icon: flight_takeoff
-  - title: Security
-    content_markdown: A static site is as secure as the web server its running on which makes them significantly less vunerable to hackers.
-    icon: lock
-  - title: Stability
-    content_markdown: There's fewer points of failure with static sites so it's likely your uptime will be much higher.
-    icon: all_inclusive
-  - title: Source controlled
-    content_markdown: The entire site and content can live in a source control system such as Git. This gives you many advantages such as backups, approval processes and collaboration tools.
-    icon: star
 ---
 
 <div class="about">
@@ -30,15 +11,7 @@ static_manifesto:
 	<h2>Что движет нами?</h2>
 	<p>Наша миссия состоит в том, чтобы сделать фитнес доступным. Мы считаем, этого можно добиться за счет использования нейросети в области учета и подбора индивидуальных программ тренировок и питания.</p>
 
-	<h2>Почему фитнес?</h2>
-	<ul class="cards feature-content">
-		{% for item in page.static_manifesto %}
-			<li class="card">
-				<h3><i class="material-icons">{{ item.icon }}</i> {{ item.title }}</h3>
-				{{ item.content_markdown | markdownify }}
-			</li>
-		{% endfor %}
-	</ul>
+	
 
 	<h2>Наша команда</h2>
 	<p>Основанная в Уфе (Россия) и теперь обслуживающая клиентов со всего мира, наша команда увлечена тем, что делает все возможное, чтобы дать возможность каждому инструктору по фитнесу автоматизировать свою работу с клиентами и заработать, тем самым, хорошие деньги.</p>
