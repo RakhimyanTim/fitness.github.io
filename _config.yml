@@ -1,15 +1,15 @@
 # ----
 # Site
 
-title: CloudCannon
-description: CloudCannon has everything you need to build, host and update Jekyll websites.
-url: https://cloudcannon.com
-disqus_shortname: cloudcannon
+title: Fitness.Pullnfit
+description: Сервис помогает инструкторам по фитнесу автоматизировать их работу с клиентами с помощью нейросети в области учета и подбора индивидуальных программ тренировок и питания.
+url: https://fitness.pullnfit.ru
+disqus_shortname: pullnfit
 baseurl:
 
-google_site_verification: GkBrJRSQqF43wQVGLUeUJFTPBldtIXGCw9toqvS2o_o
+google_site_verification: 
 permalink: pretty
-timezone: Pacific/Auckland
+timezone: YEKT
 collections:
   case_studies:
     output: false
@@ -28,20 +28,20 @@ defaults:
 # ----------
 # SEO plugin
 
-lang: en_NZ
+lang: ru
 logo: /siteicon.png
 twitter:
-  username: CloudCannon
+  username: Fitness.Pullnfit
 facebook:
-  publisher: https://www.facebook.com/CloudCannon
+  publisher: https://www.facebook.com/Fitness.Pullnfit
 social:
   name: CloudCannon
   links:
-    - https://twitter.com/CloudCannon
-    - https://www.facebook.com/CloudCannon
-    - https://plus.google.com/+CloudCannon
-    - https://www.youtube.com/c/CloudCannon
-    - https://github.com/CloudCannon
+    - https://twitter.com/Fitness.Pullnfit
+    - https://www.facebook.com/Fitness.Pullnfit
+    - https://plus.google.com/+Fitness.Pullnfit
+    - https://www.youtube.com/c/Fitness.Pullnfit
+    - https://github.com/Fitness.Pullnfit
 
 exclude:
   - Gemfile
