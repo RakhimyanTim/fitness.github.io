@@ -1,0 +1,59 @@
+---
+title: Как это работает
+heading: Как это работает
+subtitle: Этот вопрос часто вызывает путаницу. Вот быстрое объяснение! 
+layout: short
+permalink: /how-it-works/
+---
+<ul class="workflow-diagram">
+	<li>
+		<i class="material-icons">filter_1</i>
+		<p>Заполняете гугл-форму <br>на сайте</p>
+	</li>
+  	<li>
+		<i class="material-icons">filter_2</i>
+		<p>Получаете ссылку <br>на приложение</p>
+	</li>
+  	<li>
+		<i class="material-icons">filter_3</i>
+		<p>Качаете приложение, <br>авторизуетесь</p>
+	</li>
+	<li>
+		<i class="material-icons">filter_4</i>
+		<p>Получаете доступ <br>к программе</p>
+	</li>
+  	<li>
+		<i class="material-icons">filter_5</i>
+		<p>Оплачиваете подписку <br>на мес/год</p>
+	</li>
+ 	<li>
+		<i class="material-icons">filter_6</i>
+		<p>Получаете браслет <br>по почте</p>
+	</li>
+  	<li>
+		<i class="material-icons">filter_7</i>
+		<p>Занимаетесь согласно <br>программе</p>
+	</li>
+  	<li>
+		<i class="material-icons">filter_8</i>
+		<p>Возвращаете до 50% <br>оплаты</p>
+	</li>
+</ul>
+
+<div class="feature-content">
+	<h2>А вот довольно подробное объяснение</h2>
+
+	<ul class="cards">
+		{% include components/features/data-block.html icon="assignment" title="Заполнение гугл-формы" content="Чтобы заполнить гугл-форму перейдите кликните по кнопке 'Побробовать бесплатно'." %}
+
+		{% include components/features/data-block.html icon="get_app" title="Установка приложения" content="Кликните по ссылке, которую вы получили по Email или SMS. На открывшемся сайте выберите подходящий вашему устройству вариант. Установите. " %}
+
+		{% include components/features/data-block.html icon="touch_app" title="Авторизация в приложении" content="Для авторизации в Гугл-Календарь введите логин и пароль, который мы вам отправили по Email или SMS." %}
+		
+		{% include components/features/data-block.html icon="credit_card" title="Оплата онлайн" content="Мы принимаете оплату только онлайн и это можно сделать <a href='http://yasobe.ru/na/pullnfit'>здесь</a>." %}
+		
+		{% include components/features/data-block.html icon="settings_applications" title="Активация браслета" content="." %}
+	</ul>
+</div>
+
+<script src="/js/features.js"></script>
